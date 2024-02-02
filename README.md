@@ -1,4 +1,3 @@
-# first
-# this is my first repository
+Hi i am Tanishq Rastogi
 <br>
-# Hi i am Tanishq Rastogi
+this is my first repository
